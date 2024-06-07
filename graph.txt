@@ -1,0 +1,27 @@
+Nodes:
+Dallas
+Miami
+New York
+Los Angeles
+Boston
+San Francisco
+Chicago
+
+Edges:
+Dallas -> Miami : 1200
+Dallas -> New York : 1500
+Dallas -> Los Angeles : 1700
+Miami -> New York : 1000
+New York -> Boston : 250
+New York -> Chicago : 800
+Los Angeles -> New York : 3000
+Los Angeles -> San Francisco : 500
+San Francisco -> Chicago : 2200
+
+Direct Distance from Chicago:
+Miami : 2000
+New York : 800
+Boston : 900
+Dallas : 1200
+San Francisco : 2200
+Los Angeles : 2400
